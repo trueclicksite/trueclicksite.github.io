@@ -19,6 +19,7 @@
 /* main */
 body{
 	background-color: White;
+	background-image: url('../bg2.jpg');
 	font-family: 'Comfortaa', cursive;
 	color: black;
 	text-align: center;
@@ -30,7 +31,7 @@ body{
 }
 
 .title {
-	font-size: 100px; /* 24 */
+	font-size: 107px; /* 24 */
 	font-weight: bold;
 	color: black;
 	font-family: 'Special Elite', cursive;
