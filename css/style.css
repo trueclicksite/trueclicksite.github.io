@@ -100,7 +100,7 @@ p {
 
 a:link, a:visited {
 	text-decoration: underline;
-	color: red;
+	color: green;
 }
 
 a:hover, a:active {
