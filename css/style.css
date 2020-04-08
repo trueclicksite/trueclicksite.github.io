@@ -37,8 +37,8 @@ body{
 	font-family: 'Special Elite', cursive;
 	padding-top: 80px;
 	padding-bottom: 40px;
-	padding-left: 20px;
-	padding-right: 20px;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 
 #description {
@@ -73,15 +73,15 @@ h1, h2, h3 {
 	font-family: 'Pacifico', cursive;
 	font-weight: normal;
 	padding-top: 40px;
-	padding-left: 20px;
-	padding-right: 20px;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 
 p {
 	font-size: 12px; /* 18 */
 	padding-top: 18px; /* 10 */
-	padding-left: 20px; /* 10 */
-	padding-right: 20px; /* 10 */
+	padding-left: 0px; /* 10 */
+	padding-right: 0px; /* 10 */
 	color: black;
 }
 
